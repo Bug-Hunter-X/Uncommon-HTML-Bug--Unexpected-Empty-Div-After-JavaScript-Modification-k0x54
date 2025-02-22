@@ -1,0 +1,3 @@
+# Uncommon HTML Bug: Unexpected Empty Div
+
+This repository demonstrates a subtle bug in HTML and JavaScript. The `bug.html` file shows a simple example where a div's content is cleared using JavaScript, but no new content is added afterward. This leads to an unexpectedly empty div after the button is clicked. The solution in `bugSolution.html` adds the missing step of updating the div with new content.
